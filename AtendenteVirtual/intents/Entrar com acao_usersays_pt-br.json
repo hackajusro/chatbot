@@ -1,0 +1,115 @@
+[
+  {
+    "id": "fcc32e33-cfd2-4942-9fab-4809ea5fd675",
+    "data": [
+      {
+        "text": "entrar com",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      },
+      {
+        "text": " ação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1abfa614-f357-4bf4-865e-815aca027c68",
+    "data": [
+      {
+        "text": "ação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07ce7a30-7c73-4a84-9f9c-cc22643837c0",
+    "data": [
+      {
+        "text": "problema com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a caerd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e803b62-7405-4b63-bfa5-998e1db9aa3f",
+    "data": [
+      {
+        "text": "entrar na justica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9bd84d5-d27d-438b-8b78-0aefedacbb13",
+    "data": [
+      {
+        "text": "mover ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " acao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8301b50-7f1c-4bf5-8b0e-f039ed7487a9",
+    "data": [
+      {
+        "text": "acao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03c470ae-6b64-4531-a72a-a8196fdd80bd",
+    "data": [
+      {
+        "text": "botar no pau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e6e62a5-3883-438c-b81e-00930ccc212f",
+    "data": [
+      {
+        "text": "entrar com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " acao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

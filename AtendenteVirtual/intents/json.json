@@ -1,0 +1,36 @@
+{
+  "id": "48b3190e-f669-44a7-b82d-69bb00773552",
+  "name": "json",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f16e3b8e-034b-4987-9932-96483d3300fc",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "processo",
+          "value": "$processo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

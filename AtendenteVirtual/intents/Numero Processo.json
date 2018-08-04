@@ -1,0 +1,42 @@
+{
+  "id": "a636cd66-f7f1-4452-99f7-cd7933ca5935",
+  "parentId": "79b6f322-d85c-4ced-8399-5a879c638e15",
+  "rootParentId": "08d76924-3d38-45c3-85cc-699cec861e43",
+  "name": "Numero Processo",
+  "auto": true,
+  "contexts": [
+    "Instancia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConsultaProcesso.ConsultaProcesso-custom.Instancia-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3fd1f352-35ad-473a-bbea-5b36794cc63f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "processo",
+          "value": "$processo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

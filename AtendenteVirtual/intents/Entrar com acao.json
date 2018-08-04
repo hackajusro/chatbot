@@ -1,0 +1,41 @@
+{
+  "id": "3babd258-ab6f-4f08-ad97-44de8c8c1436",
+  "name": "Entrar com acao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Entrarcomacao-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ae418685-c197-4fcc-8bda-faa24f66e3a8",
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "É maior de 18 anos?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "79b6f322-d85c-4ced-8399-5a879c638e15",
+  "parentId": "08d76924-3d38-45c3-85cc-699cec861e43",
+  "rootParentId": "08d76924-3d38-45c3-85cc-699cec861e43",
+  "name": "Instancia",
+  "auto": true,
+  "contexts": [
+    "ConsultaProcesso-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConsultaProcesso.ConsultaProcesso-custom",
+      "affectedContexts": [
+        {
+          "name": "Instancia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "08f040e8-cc0a-42e0-9f8f-e286eeb9fbff",
+          "dataType": "@instancia",
+          "name": "instancia",
+          "value": "$instancia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Informe o numero do processo: Ex:00323245-23-2018-0001"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244539,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "08d76924-3d38-45c3-85cc-699cec861e43",
+  "name": "Consulta Processo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ConsultaProcesso-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Informe em qual instância se esta na primeira ou na segunda.",
+            "Primeira instância ou Segunda instância?",
+            "1a. instância ou 2a. instância?",
+            "Qual instância? Primeira ou Segunda?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

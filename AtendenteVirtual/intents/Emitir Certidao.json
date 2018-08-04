@@ -1,0 +1,27 @@
+{
+  "id": "82e3805d-4371-44d7-b564-b65882b01ef2",
+  "name": "Emitir Certidao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Olá você pode acessar: http://webapp.tjro.jus.br/certidaoonline/pages/apresentacao.xhtml ler as instruções e selecionar qual a certidão se adéqua mais a sua necessidade."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

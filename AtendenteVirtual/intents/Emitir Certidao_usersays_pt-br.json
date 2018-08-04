@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0fbde342-6047-4287-92a5-cca1acc59ab3",
+    "data": [
+      {
+        "text": "negativa certidao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9be8415-4b4c-4d77-98a1-30e5e3e43347",
+    "data": [
+      {
+        "text": "certidao negativa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a19e6e2b-e5a2-44e4-98d9-226a9312acea",
+    "data": [
+      {
+        "text": "Emitir Certidao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

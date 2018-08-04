@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dcefd7fe-1342-444a-bd32-4a309c457c09",
+    "data": [
+      {
+        "text": "json ",
+        "userDefined": false
+      },
+      {
+        "text": "processo",
+        "alias": "processo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

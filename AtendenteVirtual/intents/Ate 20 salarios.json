@@ -1,0 +1,39 @@
+{
+  "id": "b373826c-25d7-4311-b6f6-55bff2cebf6a",
+  "parentId": "287315d1-b464-4658-8953-27810a2577d8",
+  "rootParentId": "3babd258-ab6f-4f08-ad97-44de8c8c1436",
+  "name": "Ate 20 salarios",
+  "auto": true,
+  "contexts": [
+    "Maiorde18-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Entrarcomacao.Entrarcomacao-custom.Maiorde18-yes",
+      "affectedContexts": [
+        {
+          "name": "Ate20salarios-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Certo, então me informe por gentileza a sua localidade que vou lhe orientar como deve proceder..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244521,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "40b9a785-b097-4e60-80cf-04d15449216c",
+    "data": [
+      {
+        "text": "sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497435677
+  },
+  {
+    "id": "13a15351-7ad9-4ecc-9863-b5e639238aec",
+    "data": [
+      {
+        "text": "isso mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497435677
+  },
+  {
+    "id": "8547142d-af7f-4e07-9a47-261f39783f53",
+    "data": [
+      {
+        "text": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1497435677
+  },
+  {
+    "id": "18d5999d-8ba2-48b2-8dbd-61142901992e",
+    "data": [
+      {
+        "text": "exatamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1497435677
+  },
+  {
+    "id": "ffa6c8fb-d9b2-4c4c-8f9b-cb02bae78da0",
+    "data": [
+      {
+        "text": "claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1497435677
+  },
+  {
+    "id": "41a89767-c6f1-44bd-b98c-1cd3602fbcca",
+    "data": [
+      {
+        "text": "com certeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1497435677
+  }
+]

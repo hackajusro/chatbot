@@ -1,0 +1,41 @@
+{
+  "id": "0c686d6c-c3f0-49b4-9103-f9a71945f28a",
+  "parentId": "b373826c-25d7-4311-b6f6-55bff2cebf6a",
+  "rootParentId": "3babd258-ab6f-4f08-ad97-44de8c8c1436",
+  "name": "Localidade",
+  "auto": true,
+  "contexts": [
+    "Ate20salarios-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Entrarcomacao.Entrarcomacao-custom.Maiorde18-yes.Ate20salarios-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c4fcd5cd-8480-4476-8ac5-c1986a53f699",
+          "dataType": "@juizado_especial",
+          "name": "juizado_especial",
+          "value": "$juizado_especial",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Boa notícia, você não precisa de advogado para esse valor de ação, recomendo que você junte as junte provas do prejuízo e leve para o juizado especial de pequenas causas localizado na $juizado_especial"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189244521,
+  "fallbackIntent": false,
+  "events": []
+}

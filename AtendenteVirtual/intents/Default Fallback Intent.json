@@ -1,0 +1,28 @@
+{
+  "id": "a1fa1dec-2089-40e7-820e-89179cd77766",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Lamento, mas não compreendi sua dúvida, eu posso lhe ajudar nas seguintes áreas: Consulta Processual, Certidão Negativa e Informações sobre ações judiciais. Informe como deseja prosseguir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

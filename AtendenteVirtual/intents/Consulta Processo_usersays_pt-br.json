@@ -1,0 +1,108 @@
+[
+  {
+    "id": "9bdf8a49-c946-41c3-87db-951248e0a192",
+    "data": [
+      {
+        "text": "gostaria de consultar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " processo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5adcb494-40f5-485a-8dbe-bebc471803c2",
+    "data": [
+      {
+        "text": "quero consultar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " processo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a71c84cf-052d-4176-9a2d-d85526d6ef7b",
+    "data": [
+      {
+        "text": "consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "172d6aa1-6b1a-419d-8b0d-b2d558468fd1",
+    "data": [
+      {
+        "text": "status processo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0256a90d-3e7f-4429-b6e0-2e99d73f4d00",
+    "data": [
+      {
+        "text": "situacao processo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "673cf17c-0f1b-4af4-b347-540d0c354511",
+    "data": [
+      {
+        "text": "processo consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c7d8a75-89e7-40ee-aace-a6927d57543e",
+    "data": [
+      {
+        "text": "consulta processual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d29c8ac-0f8b-4e80-b9b2-4fe276ff37fa",
+    "data": [
+      {
+        "text": "Consulta processo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
